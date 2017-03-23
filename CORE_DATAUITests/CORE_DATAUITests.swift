@@ -1,10 +1,5 @@
-//
-//  CORE_DATAUITests.swift
-//  CORE_DATAUITests
-//
-//  Created by Praveen Ambekar on 3/21/17.
-//  Copyright © 2017 Praveen Ambekar. All rights reserved.
-//
+
+
 
 import XCTest
 
